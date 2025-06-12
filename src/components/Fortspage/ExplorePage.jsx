@@ -13,7 +13,7 @@ import Antur from "../../assets/antur.jpg";
 import Arnala from "../../assets/arnala.jpg";
 import Avchitgad from "../../assets/avchitgad.jpg";
 import Bahadurgad from "../../assets/bahadurgad.jpg";
-import Ballaleshwar from "../../assets/ballaleshwar.jpg";
+
 import Bassein from "../../assets/bassein.jpg";
 import Belapur from "../../assets/belapur.jpg";
 import Chandan from "../../assets/chandan.jpg";
@@ -68,7 +68,7 @@ const fortImages = {
   "Arnala": Arnala,
   "Avchitgad": Avchitgad,
   "Bahadurgad": Bahadurgad,
-  "Ballaleshwar": Ballaleshwar,
+  
   "Bassein": Bassein,
   "Belapur": Belapur,
   "Chandan": Chandan,
