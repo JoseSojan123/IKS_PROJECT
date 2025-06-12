@@ -1,7 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import sion from "../../assets/sion-fort.jpg";
-import fortVideo from "../../assets/video.mp4";
+const fortVideo = "https://drive.google.com/file/d/1vgiH4-_fFnpF4puPM1qy4nUjeL7nbjnR/preview";
+
+
 import fortPdf from "../../assets/iks.pdf";
 import bgvideo from "../../assets/bg.mp4";
 
