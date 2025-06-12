@@ -28,7 +28,7 @@ import Hanumantgad from "../../assets/hanumantgad.jpg";
 import HarishchandragadFort from "../../assets/HarishchandragadFort.jpg";
 import Janjira from "../../assets/jinja.jpg";
 import KorigadFort from "../../assets/Korigad Fort.jpg";
-import Lohagad from "../../assets/lohagad.png";
+import Lohagad from "../../assets/Lohagad.png";
 import LohagadFort from "../../assets/Lohagad Fort.jpg";
 import Madangad from "../../assets/madangad.png";
 import Mahim from "../../assets/mahim.png";
