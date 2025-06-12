@@ -2,7 +2,7 @@ const express = require("express");
 const dotenv = require("dotenv");
 const cors = require("cors");
 const axios = require("axios");
-GEMINI_API_KEY = 'AIzaSyC0JoP0OPIUabzoQIeRgScp1tyHax0G9gI'
+
 
 dotenv.config();
 

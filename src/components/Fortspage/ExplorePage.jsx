@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import QuizModal from "../Quizmodal/QuizModal.jsx";
-const API_KEY = 'AIzaSyC0JoP0OPIUabzoQIeRgScp1tyHax0G9gI';
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
 import axios from "axios";
 

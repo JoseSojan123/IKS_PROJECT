@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_KEY = "AIzaSyC0JoP0OPIUabzoQIeRgScp1tyHax0G9gI";
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
 const QuizModal = ({ fort, onClose }) => {
   const [questions, setQuestions] = useState([]);
