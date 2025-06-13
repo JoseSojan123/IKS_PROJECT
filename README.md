@@ -24,6 +24,8 @@ A full-stack web application that lets users discover the historic forts of Maha
 ![image](https://github.com/user-attachments/assets/ae076cab-355f-410f-8906-8f45f89b8dd2)
 ![image](https://github.com/user-attachments/assets/84e77b1d-a9d3-4d3a-b194-8df9a46bd069)
 ![image](https://github.com/user-attachments/assets/88b16907-8912-403a-b604-4dc3a8510267)
+![image](https://github.com/user-attachments/assets/c50a7e96-b195-4b8b-9c71-2e4801ff66dd)
+
 
 
 
