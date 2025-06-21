@@ -2,7 +2,7 @@
 
 A full-stack web application that lets users discover the historic forts of Maharashtra, take quizzes about them, and find the nearest forts based on their current location. Built using **ReactJS**, **Node.js**, **Leaflet**, and **Gemini API**, the app also recommends the best time of the year to visit each fort.
 
-🌐 **Live Demo**: [Visit the site on Vercel](https://iks-project-murex.vercel.app/forts)  
+🌐 **Live Demo**: [Visit the site on Vercel](https://iks-project-murex.vercel.app)  
 🛠️ **Tech Stack**: ReactJS, Node.js, Leaflet, Gemini API, HTML, CSS, JavaScript
 
 ---
